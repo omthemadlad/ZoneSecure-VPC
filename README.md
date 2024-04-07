@@ -1,8 +1,8 @@
-# ResilientVPC: Multi-Zone Deployment with Load Balancer and NAT Gateway
+# ZoneSecure VPC: Multi-Zone Deployment with Load Balancer and NAT Gateway
 
 ## Project Description
 
-**ResilientVPC** is a comprehensive project aimed at creating a robust Virtual Private Cloud (VPC) infrastructure tailored for production environments. This project focuses on enhancing resiliency, security, and scalability through strategic deployment methodologies.
+**ZoneSecure VPC** is a comprehensive project aimed at creating a robust Virtual Private Cloud (VPC) infrastructure tailored for production environments. This project focuses on enhancing resiliency, security, and scalability through strategic deployment methodologies.
 
 ## Key Features
 
@@ -26,4 +26,4 @@
 
 ## Conclusion
 
-**ResilientVPC** offers a robust and scalable VPC solution tailored for production environments. By leveraging multi-zone deployment, load balancing, and security best practices, this project ensures high availability, scalability, and security, making it an ideal choice for organizations seeking to deploy resilient and secure infrastructure in the cloud.
+**ZoneSecure VPC** offers a robust and scalable VPC solution tailored for production environments. By leveraging multi-zone deployment, load balancing, and security best practices, this project ensures high availability, scalability, and security, making it an ideal choice for organizations seeking to deploy resilient and secure infrastructure in the cloud.
